@@ -58,7 +58,13 @@ class _TasksPageState extends State<TasksPage> {
               ),
             ],
             centerTitle: true,
-            title: Text('Задачи', style: AppTextStyles.h2),
+            title: Text(
+              'Задачи',
+              style: AppTextStyles.body.copyWith(
+                fontSize: 16,
+                fontWeight: FontWeight.w600,
+              ),
+            ),
           ),
           body: Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),

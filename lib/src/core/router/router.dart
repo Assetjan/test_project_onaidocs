@@ -16,7 +16,7 @@ final GlobalKey<NavigatorState> rootNavigatorKey = GlobalKey<NavigatorState>();
 GoRouter createRouter() {
   return GoRouter(
     navigatorKey: rootNavigatorKey,
-    initialLocation: RoutePaths.home,
+    initialLocation: RoutePaths.auth,
     routes: [
       GoRoute(
         path: RoutePaths.auth,

@@ -1,4 +1,4 @@
-// lib/src/app/flavor_builds.dart
+
 part of 'application.dart';
 
 Widget buildApp({required AppFlavor flavor, required GoRouter router}) {

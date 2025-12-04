@@ -1,4 +1,4 @@
-// lib/src/core/widgets/app_input_field.dart
+
 import 'package:flutter/material.dart';
 import 'package:test_task_onaidocs/gen/assets.gen.dart';
 import '../theme/text_styles.dart';
