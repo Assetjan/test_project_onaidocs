@@ -12,7 +12,7 @@
 - `go_router` для навигации
 - `get_it` для DI
 - `dio` + кастомный interceptor
-- `hive` + `hive_flutter` для локального хранения
+- `hive` для локального хранения
 - `flutter_secure_storage` для токенов
 - `flutter_gen_runner` для генерации доступа к ресурсам
 - Шрифт Inter, своя цветовая схема и текстовые стили
